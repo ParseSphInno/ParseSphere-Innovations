@@ -219,7 +219,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
       const formData = new FormData(this);
 
-      fetch('https://script.google.com/macros/s/AKfycbwi9E95MOAzZuRm-vRZhG4bLIrii9DPAGuOs8QipuBkNY9HnAArOx-z2wQ6Krdp--3F/exec', { // Replace with your script URL
+      fetch('https://script.google.com/macros/s/AKfycbzVbptxsLsAezLoX9Mtct7M2dHXAX8xVrb2EYak3qRrwInLdq0_Zx2SuctKInhMNFirQg/exec', { // Replace with your script URL
           method: 'POST',
           body: formData
       })
