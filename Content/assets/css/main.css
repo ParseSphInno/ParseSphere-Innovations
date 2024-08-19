@@ -2979,36 +2979,3 @@ section,
   }
 }
 
-.payment-container {
-  background-color: #f8f9fa;
-  padding: 2rem;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  text-align: center;
-}
-#cashfree-payment-form {
-  margin: 0 auto;
-  max-width: 100%;
-  border: 1px solid #dee2e6;
-  border-radius: 8px;
-  overflow: hidden;
-  background: #fff;
-}
-#cashfree-payment-form iframe {
-  width: 100%;
-  height: 700px;
-  border: none;
-  border-radius: 2px;
-}
-.payment-terms {
-  margin-top: 1.5rem;
-  font-size: 0.875rem;
-  color: #6c757d;
-}
-.payment-terms a {
-  color: #007bff;
-  text-decoration: none;
-}
-.payment-terms a:hover {
-  text-decoration: underline;
-}
